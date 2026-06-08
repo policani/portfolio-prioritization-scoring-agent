@@ -1,4 +1,4 @@
-﻿# Portfolio Prioritization Scoring Agent
+# Portfolio Prioritization Scoring Agent
 
 A human-governed, AI-assisted portfolio decision-support system for evaluating approved projects and programs through transparent weighted scoring, portfolio metadata, strategic themes, constraints, risks, dependencies, ownership, and executive review artifacts.
 
@@ -131,3 +131,7 @@ Sequencing, governance log, executive review, value ledger, or cleanup]
 ## Human-control model
 
 The system may recommend scoring approaches, identify gaps, calculate weighted scores, summarize tradeoffs, and prepare decision briefs. It must not approve, cancel, fund, sequence, or accept risk on behalf of leaders.
+
+## License
+
+Source code and scripts are licensed under MIT. Documentation, prompts, templates, examples, and other non-code materials are licensed under CC BY 4.0 with attribution to Marco Policani. See `LICENSE.md`.
