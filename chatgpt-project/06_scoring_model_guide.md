@@ -47,6 +47,23 @@ Use a 1-5 scale.
 | 4 | Strong value, clear evidence, or high fit. |
 | 5 | Critical, exceptional, mandatory, or top-tier evidence. |
 
+## Value-evidence confidence anchors
+
+When scoring financial, mission, risk, customer, or operational value, attach a
+value-evidence label. Do not let a high value narrative outrank evidence quality
+without a visible caveat.
+
+| Label | Meaning | Scoring treatment |
+| --- | --- | --- |
+| Measured value | Baseline, target, source, owner, and actual or validated current evidence are available. | Can support high value score if other criteria also support it. |
+| Directional value | Baseline or target is plausible and source/owner are known, but actuals or validation are still maturing. | Can support moderate to strong score with confidence caveat. |
+| Proxy value | Uses indirect measure, qualitative signal, or partial evidence. | Keep score conservative and route measurement gap downstream. |
+| Unsupported value | Claim lacks baseline, source, owner, validation, or clear metric. | Do not use as primary basis for high score; flag for intake cleanup or value-ledger follow-up. |
+
+If the value score is 4 or 5 while evidence is proxy or unsupported, call out the
+tension in the summary and decision brief. Mandatory work remains separate from
+discretionary ranking; mandatory status does not prove benefit realization.
+
 ## Calibration rules
 
 1. Avoid criteria overlap. If strategic alignment and financial value always move together, clarify the difference.
@@ -78,4 +95,5 @@ Mandatory work can still be scored to understand burden and sequencing, but the 
 | Unweighted votes | Treats every factor as equally important. | Confirm and document weights. |
 | Hidden math | Stakeholders cannot challenge the output. | Show the formula, weights, and score drivers. |
 | No confidence flag | Weak data looks as strong as validated data. | Add evidence and confidence ratings. |
+| Value story outruns evidence | A compelling business narrative receives a high score without baseline/source/owner support. | Add value-evidence labels and route unsupported claims to cleanup or value follow-up. |
 | Missing decision rights | Scores exist but nobody owns the decision. | Identify sponsor, owner, and decision authority. |

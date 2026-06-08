@@ -19,6 +19,7 @@ The intake process captures enough information to evaluate portfolio fit and dec
 | Estimated cost | Preferred | Funding trade-off view. |
 | Capacity estimate | Preferred | Sequencing and feasibility view. |
 | Benefit summary | Preferred | Value basis. |
+| Measurement contract | Preferred when value is claimed | Expected outcome, benefit type, metric, baseline, target, actual if available, measurement period, source, measure owner, review cadence, validation need, confidence, realization risk, finance-sensitive flag, downstream route. |
 | Risk rating | Preferred | Portfolio risk distribution. |
 | Dependencies | Preferred | Sequencing and cross-initiative risk. |
 | Criterion scores | Yes after scoring | Weighted scoring inputs. |
@@ -47,6 +48,7 @@ Flag the item when any of the following are missing or unclear:
 - Estimated cost
 - Capacity estimate
 - Benefit claim
+- Measurement basis, including baseline, target, owner, source, confidence, or realization risk
 - Major dependency
 - Regulatory or contractual deadline
 
@@ -66,4 +68,4 @@ Before scoring, collect:
 
 ## Scoring readiness rule
 
-An initiative can be scored with incomplete data, but it should not be treated as decision-ready unless sponsor, owner, decision authority, mandatory status, cost range, capacity range, and benefit basis are visible or explicitly waived by governance.
+An initiative can be scored with incomplete data, but it should not be treated as decision-ready unless sponsor, owner, decision authority, mandatory status, cost range, capacity range, benefit basis, and measurement readiness are visible or explicitly waived by governance. Do not let completion status substitute for value realization.

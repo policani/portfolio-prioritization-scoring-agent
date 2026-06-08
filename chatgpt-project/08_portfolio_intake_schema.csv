@@ -10,6 +10,22 @@ decision_authority,yes,text,Governance body or leader with approval authority.
 estimated_cost_usd,preferred,number,Estimated cost in USD or local reporting currency.
 capacity_fte_months,preferred,number,Estimated delivery capacity demand.
 benefit_summary,preferred,text,Concise benefit statement.
+expected_outcome,preferred,text,Expected business outcome behind the benefit claim.
+benefit_type,preferred,text,"Hard financial, cost avoidance, revenue protection, risk reduction, quality/rework, cycle time, customer/employee experience, compliance/control, mission value, or strategic option value."
+benefit_metric,preferred,text,Metric that would prove or disprove benefit progress.
+benefit_baseline,preferred,text,Baseline value or Missing/Provisional/Proxy.
+benefit_target,preferred,text,Target value or Missing/Provisional/Proxy.
+benefit_actual,optional,text,Actual or current result if available.
+measurement_period,preferred,text,Period covered or intended for measurement.
+measurement_source,preferred,text,Source system/report/owner evidence for the measure.
+measure_owner,preferred,text,Person or role accountable for the measure.
+review_cadence,preferred,text,How often the benefit should be reviewed.
+validation_need,preferred,text,Human validation still required.
+benefit_confidence,preferred,enum,"High, Medium, Low, or Missing."
+value_evidence_label,preferred,enum,"Measured value, Directional value, Proxy value, Unsupported value, or Missing."
+realization_risk,preferred,enum,"High, Medium, Low, or Missing."
+finance_sensitive_flag,preferred,enum,"Yes, No, or Unknown."
+downstream_route,preferred,text,Recommended next module or human owner for value follow-through.
 risk_rating,preferred,enum,"Low, Medium, or High portfolio risk rating."
 dependencies,preferred,text,Known dependencies or blockers.
 *_score,yes after scoring,integer 1-5,One score column for each criterion ID.

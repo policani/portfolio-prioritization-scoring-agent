@@ -1,4 +1,4 @@
-# Portfolio Prioritization Scoring Agent
+﻿# Portfolio Prioritization Scoring Agent
 
 A human-governed, AI-assisted portfolio decision-support system for evaluating approved projects and programs through transparent weighted scoring, portfolio metadata, strategic themes, constraints, risks, dependencies, ownership, and executive review artifacts.
 
@@ -18,6 +18,11 @@ Open these first:
 - [`quality-review/`](quality-review/) for senior portfolio-manager critique.
 
 Evaluate the repo on whether it makes scoring transparent, separates mandatory and discretionary work, surfaces weak metadata, preserves human decision rights, and turns prioritization into an auditable conversation.
+
+For local maintenance, compare value scoring against
+[`../roi-business-value-anti-patterns.md`](../roi-business-value-anti-patterns.md)
+so high-value narratives do not outrun evidence confidence or measurement
+readiness.
 
 ## Before and after example
 
