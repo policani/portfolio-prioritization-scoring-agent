@@ -30,6 +30,26 @@ Before: leaders have a portfolio of approved or proposed initiatives, but priori
 
 After: initiatives are normalized, scored through explicit criteria and weights, separated by mandatory/discretionary treatment, reviewed for missing owners and risks, and prepared for a human portfolio forum.
 
+## July 2026 positioning update
+
+Customer-language research confirms the core pain: "everything is urgent," the
+loudest request wins, pet projects get protected, and executive overrides become
+invisible. The module should be framed as a way to make tradeoffs explicit, not
+as a ranking machine.
+
+Lead with:
+
+- transparent scoring criteria and weights;
+- mandatory versus discretionary separation;
+- missing-owner and weak-evidence flags;
+- sensitivity views for weight changes;
+- visible rationale when leaders override the model;
+- handoff to capacity sequencing when a high score does not mean the work can
+  actually start.
+
+The module is structurally strong. The improvement target is clearer public copy
+around human-governed scoring, override rationale, and capacity-aware follow-up.
+
 ## Operating problem
 
 Organizations often have many approved or proposed initiatives but no consistent way to compare their strategic value, financial contribution, risk, effort, mandatory status, dependencies, and operational impact. The result is noisy prioritization, unclear ownership, overloaded teams, and decisions that are hard to defend later.
